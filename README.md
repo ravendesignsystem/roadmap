@@ -8,6 +8,10 @@ Gall's law - https://en.wikipedia.org/wiki/John_Gall_(author)#Gall.27s_law
 
 - https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2
 
+## Techonolgy reviews
+
+- https://parceljs.org
+
 ## Notes
 
 If the category name is the same as the first part of the block name it doesn’t have to be repeated in the class name
