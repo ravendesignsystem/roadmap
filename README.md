@@ -8,9 +8,12 @@ Gall's law - https://en.wikipedia.org/wiki/John_Gall_(author)#Gall.27s_law
 
 - https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2
 
-## Techonolgy reviews
+## Techonolgy to review/consider
 
 - https://parceljs.org
+- GraphQl
+- Firebase
+
 
 ## Notes
 
