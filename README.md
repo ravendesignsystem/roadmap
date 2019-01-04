@@ -4,6 +4,10 @@
 
 Gall's law - https://en.wikipedia.org/wiki/John_Gall_(author)#Gall.27s_law
 
+> You’ve got to keep your eyes open, see reality as it is and try new things to be able to adapt to new realities before it’s too late.
+
+Dr. Benoit-Antoine Bacon
+
 ## Articles
 
 - https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2
