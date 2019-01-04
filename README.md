@@ -23,3 +23,6 @@ Dr. Benoit-Antoine Bacon
 
 If the category name is the same as the first part of the block name it doesn’t have to be repeated in the class name
 
+## Checkilists
+
+- Doc head
